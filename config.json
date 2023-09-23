@@ -1,0 +1,11 @@
+{
+  "DataBaseType"  : "postgresql",
+  "Host"          : "localhost",
+  "Port"          : "5432",
+  "User"          : "postgres",
+  "PassWord"      : "postgres",
+  "DbName"        : "postgres",
+  "AdminName"     : "GULUGULU",
+  "AdminPassWord" : "12345678",
+  "Salt"          : "a_random_string"
+}
